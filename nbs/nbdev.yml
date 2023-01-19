@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dolomiti1"
+  site-url: "https://anasbraj.github.io/dolomiti1"
+  description: "first new attempt at getting github pages and nbdev to work again"
+  repo-branch: main
+  repo-url: "https://github.com/anasbraj/dolomiti1"
